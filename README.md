@@ -20,4 +20,4 @@ This repository contains the frontend codebase for Aurelia's e-commerce platform
 ### Getting Started
 
 To set up the project locally, clone this repository and open `index.html` in your browser. For the best experience, use a local server to avoid CORS issues with some features.
-Check out https://techie-saby.github.io/Aurelia-E-commerce-Design/
+Check out our live site of Ecommerce in https://techie-saby.github.io/Aurelia-E-commerce-Design/
